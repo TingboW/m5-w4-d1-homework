@@ -1,8 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
 import { useState, useEffect } from 'react';
-import countries from 'i18n-ios-countries';
-import "bootstrap/dist/css/bootstrap/min.css";
+import countries from "i18n-iso-countries";
+import "bootstrap/dist/css/bootstrap.min.css";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faTemperatureLow, faTemperatureHigh, faMapMarkerAlt } from "@fortawesome/free-solid-svg-icons";
 
